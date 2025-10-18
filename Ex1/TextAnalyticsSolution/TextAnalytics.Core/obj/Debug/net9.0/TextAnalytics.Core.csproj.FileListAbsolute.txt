@@ -1,0 +1,13 @@
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\bin\Debug\net9.0\TextAnalytics.Core.deps.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\bin\Debug\net9.0\TextAnalytics.Core.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\bin\Debug\net9.0\TextAnalytics.Core.pdb
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.csproj.AssemblyReference.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.AssemblyInfoInputs.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.AssemblyInfo.cs
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.csproj.CoreCompileInputs.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.sourcelink.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\refint\TextAnalytics.Core.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\TextAnalytics.Core.pdb
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex1\TextAnalyticsSolution\TextAnalytics.Core\obj\Debug\net9.0\ref\TextAnalytics.Core.dll

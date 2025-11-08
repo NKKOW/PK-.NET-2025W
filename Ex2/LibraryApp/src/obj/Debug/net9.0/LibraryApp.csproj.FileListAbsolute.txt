@@ -1,0 +1,15 @@
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\bin\Debug\net9.0\LibraryApp.exe
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\bin\Debug\net9.0\LibraryApp.deps.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\bin\Debug\net9.0\LibraryApp.runtimeconfig.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\bin\Debug\net9.0\LibraryApp.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\bin\Debug\net9.0\LibraryApp.pdb
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.AssemblyInfo.cs
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.sourcelink.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\refint\LibraryApp.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.pdb
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\LibraryApp.genruntimeconfig.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex2\LibraryApp\src\obj\Debug\net9.0\ref\LibraryApp.dll

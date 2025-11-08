@@ -1,0 +1,9 @@
+using System;
+
+namespace LibraryApp.Domain
+{
+    public class ReservationConflictException : Exception
+    {
+        public ReservationConflictException(string message) : base(message) { }
+    }
+}

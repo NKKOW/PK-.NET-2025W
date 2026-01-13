@@ -1,0 +1,17 @@
+﻿Krótki opis zastosowanych metod
+
+W projekcie wykorzystano asynchroniczne pobieranie danych przy użyciu HttpClient oraz mechanizmu async/await. Do równoległego pobierania wielu plików tekstowych zastosowano Task.WhenAll(). Przetwarzanie tekstów (liczenie słów) zostało wykonane równolegle przy użyciu Parallel.ForEach, co pozwala wykorzystać wiele rdzeni procesora. Synchronizacja dostępu do wspólnej struktury danych została zapewniona przez ConcurrentDictionary, który umożliwia bezpieczne aktualizacje z wielu wątków bez użycia ręcznych blokad (lock). Do pomiaru czasu pobierania i przetwarzania użyto klasy Stopwatch.
+
+Pytania do refleksji
+
+Jakie techniki zostały użyte do przetwarzania równoległego?
+Zastosowano asynchroniczne zadania (Task) do równoległego pobierania plików oraz Parallel.ForEach do równoległego przetwarzania tekstów. Każda książka była analizowana na osobnym wątku roboczym.
+
+Dlaczego synchronizacja była konieczna?
+Synchronizacja była konieczna, ponieważ wiele wątków jednocześnie aktualizowało wspólną kolekcję ze zliczeniami słów. Bez synchronizacji mogłoby dojść do utraty danych i błędnych wyników. ConcurrentDictionary zapewnił poprawność operacji w środowisku wielowątkowym.
+
+Jak wyglądałby ten kod bez równoległości? Co by się zmieniło?
+Bez równoległości pliki byłyby pobierane i przetwarzane sekwencyjnie w jednej pętli. Kod byłby prostszy, ale czas wykonania znacznie dłuższy, a synchronizacja nie byłaby potrzebna.
+
+Jak można jeszcze poprawić wydajność?
+Wydajność można poprawić poprzez ograniczenie synchronizacji (np. scalanie wyników dopiero po zakończeniu przetwarzania), użycie PLINQ, strumieniowe przetwarzanie dużych plików zamiast trzymania ich w całości w pamięci oraz filtrowanie słów mało znaczących (stop-words).

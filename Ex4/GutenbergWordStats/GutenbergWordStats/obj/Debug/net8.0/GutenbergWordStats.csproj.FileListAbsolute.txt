@@ -1,0 +1,15 @@
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\bin\Debug\net8.0\GutenbergWordStats.exe
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\bin\Debug\net8.0\GutenbergWordStats.deps.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\bin\Debug\net8.0\GutenbergWordStats.runtimeconfig.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\bin\Debug\net8.0\GutenbergWordStats.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\bin\Debug\net8.0\GutenbergWordStats.pdb
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.AssemblyInfoInputs.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.AssemblyInfo.cs
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.csproj.CoreCompileInputs.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.sourcelink.json
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\refint\GutenbergWordStats.dll
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.pdb
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\GutenbergWordStats.genruntimeconfig.cache
+C:\Users\ninak\ProjectsNET\PK-.NET-2025W\Ex4\GutenbergWordStats\GutenbergWordStats\obj\Debug\net8.0\ref\GutenbergWordStats.dll
